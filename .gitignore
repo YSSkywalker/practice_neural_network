@@ -19,6 +19,7 @@ pip-selfcheck.json
 
 # dataset
 source/
+dataset/
 
 #cache
 __pycache__
